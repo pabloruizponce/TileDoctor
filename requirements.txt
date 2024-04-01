@@ -5,3 +5,5 @@ ultralytics
 opencv-python-headless
 matplotlib
 numpy
+io
+PIL
